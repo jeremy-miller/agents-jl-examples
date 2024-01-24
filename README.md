@@ -1,4 +1,4 @@
-# Schelling's Segregation Model
+# Agents.jl Examples
 
-Schelling's Segregation Model using [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/) agent-based modeling library,
-based on [this](https://juliadynamics.github.io/Agents.jl/stable/tutorial/) tutorial.
+Code for the various [examples](https://juliadynamics.github.io/Agents.jl/stable/examples/schelling/)
+from the [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/) agent-based modeling library.
